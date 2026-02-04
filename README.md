@@ -1,17 +1,41 @@
-## Hi, I'm Muhammad Ishaq 👋
+# 👋 Hi, I'm Muhammad Ishaq
 
-🎓 BS Software Engineering (Student of Final Semester)  
-🐍 Python Developer  
+🎓 BS Software Engineering Student (8th Semester)
+💻 Python Backend Developer | Flask Developer
+🧠 AI + Web Development Enthusiast
 
-### Skills
+---
+
+## 🚀 Skills
 - Python
-- HTML
-- CSS
-- JavaScript
+- Flask
+- REST APIs
+- SQL / SQLite
+- HTML / CSS
 - Git & GitHub
-- File Handling
-- Basic Web Development
+- Machine Learning Integration
 
-### Currently Working On
-- Python projects
-- Database Projects
+---
+
+## 🔥 Featured Projects
+
+### 🧾 Flask ToDo App
+- CRUD operations
+- Database integration
+- User-friendly interface
+
+### 🔐 Flask Login System
+- Authentication
+- Password hashing
+- Sessions management
+
+### 🧠 Brain Tumor Detection Web App
+- MRI Upload
+- AI Prediction
+- Flask Backend
+
+---
+
+## 📫 Contact Me
+- Email: yourmail@gmail.com
+- GitHub: https://github.com/yourusername
