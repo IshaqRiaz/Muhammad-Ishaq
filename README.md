@@ -1,19 +1,50 @@
 # 👋 Hi, I'm Muhammad Ishaq
 
-🎓 BS Software Engineering Student (8th Semester)
-💻 Python Backend Developer | Flask Developer
-🧠 AI + Web Development Enthusiast
+🎓 BS Software Engineering Student (8th Semester)  
+💻 Python Backend Developer | Flask Developer  
+🧠 AI + Web Development Enthusiast  
+📊 Coordinator & Data Entry Operator with 4+ years experience  
 
 ---
 
-## 🚀 Skills
+## 🚀 About Me
+- 🔧 Building backend web applications using Python & Flask
+- 🌐 Interested in Web Development & REST APIs
+- 🤖 Working on AI-based web projects
+- 📚 Currently improving backend development skills
+- 🎯 Goal: Become a professional Python Backend Developer
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Backend Development
 - Python
 - Flask
 - REST APIs
-- SQL / SQLite
-- HTML / CSS
+- Authentication Systems
+
+### 🗄️ Database
+- SQLite
+- MySQL
+- Database Design
+- CRUD Operations
+
+### 🌐 Web Technologies
+- HTML
+- CSS
+- Jinja Templates
+
+### ⚙️ Tools & Technologies
 - Git & GitHub
-- Machine Learning Integration
+- VS Code
+- Microsoft Office
+- Postman (API Testing)
+
+### 🤖 AI & Machine Learning
+- MRI Image Processing
+- Brain Tumor Detection Projects
+- Python ML Integration with Web Apps
 
 ---
 
@@ -22,20 +53,37 @@
 ### 🧾 Flask ToDo App
 - CRUD operations
 - Database integration
-- User-friendly interface
+- Task management system
 
-### 🔐 Flask Login System
-- Authentication
+### 🔐 Flask Login & Registration System
+- Secure authentication
 - Password hashing
-- Sessions management
+- User session management
 
 ### 🧠 Brain Tumor Detection Web App
-- MRI Upload
-- AI Prediction
-- Flask Backend
+- MRI Scan Upload
+- AI Prediction System
+- Flask Backend Integration
+
+### 📂 File Upload System
+- Upload documents/images
+- Server-side validation
+- Secure file handling
+
+---
+
+## 📈 Currently Learning
+- Advanced Flask Development
+- REST API Design
+- Backend Project Architecture
+- Deployment & Hosting
 
 ---
 
 ## 📫 Contact Me
-- Email: yourmail@gmail.com
-- GitHub: https://github.com/yourusername
+- 📧 Email: ishaqriaz12345@gmail.com
+- 💻 GitHub: https://github.com/IshaqRiaz
+
+---
+
+⭐ *Always learning, always building — turning ideas into real backend applications.*
